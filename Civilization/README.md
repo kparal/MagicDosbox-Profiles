@@ -1,7 +1,7 @@
 # Civilization (1991) Magic DosBox profile
 
-This is the Magic DosBox profile for [Civilization (1991)] game. Read the
-[overall README] for some basic information and introduction.
+This is the Magic DosBox profile for [Civilization (1991)][MobyGames] game.
+Read the [overall README] for some basic information and introduction.
 
 This profile has been created for *Google Nexus 7* device. I don't know how
 well it will display on other devices. You can always adjust the button
@@ -68,10 +68,14 @@ work (that's the same path as I use).
 
 The HTML manual has been retrieved from [CivFanatics]. It is most probably
 copyrighted.
+
 The tech tree diagram has been retrieved from [My Abandonware]. It might be
 copyrighted.
 
-[Civilization (1991)]: https://www.mobygames.com/game/dos/sid-meiers-civilization
+The game logo has been retrieved from [MobyGames]. It is most probably
+copyrighted.
+
+[MobyGames]: https://www.mobygames.com/game/dos/sid-meiers-civilization
 [overall README]: ../README.md
 [screen1]: screen1.png
 [screen2]: screen2.png
