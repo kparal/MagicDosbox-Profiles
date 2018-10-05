@@ -7,6 +7,13 @@ This profile has been created for *Google Nexus 7* device. I don't know how
 well it will display on other devices. You can always adjust the button
 placement manually, though.
 
+## Download
+
+The simplest way is to download the whole repo: [Download everything]
+
+The `.mgc` file is the game profile to be imported in Magic DosBox, and the
+`html/` directory contains optional in-game help.
+
 ## Screenshots
 ![screenshot 1][screen1]
 
@@ -76,6 +83,7 @@ The game logo has been retrieved from [MobyGames]. It is most probably
 copyrighted.
 
 [MobyGames]: https://www.mobygames.com/game/dos/sid-meiers-civilization
+[Download everything]: https://github.com/kparal/MagicDosbox-Profiles/archive/master.zip
 [overall README]: ../README.md
 [screen1]: screen1.png
 [screen2]: screen2.png
